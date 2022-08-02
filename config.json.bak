@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6281523940672@s.whatsapp.net"],
+  "ownerName": ["Fardan"],
+  "botName": "Elaina Bot",
+  "sessionName": "fardan",
+  "pathimg": "./media/yo.jpg",
+  "gcwa": "https://chat.whatsapp.com/Jo8ijhlXJAGFAYtwKT1vt5",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 30
+  }
+}

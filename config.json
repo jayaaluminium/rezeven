@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6283114072346@s.whatsapp.net"],
+  "ownerName": ["Kadek"],
+  "botName": "KadekBotz",
+  "sessionName": "session",
+  "pathimg": "./media/yo.jpg",
+  "gcwa": "https://linktr.ee/KadekBotz",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 30
+  }
+}
